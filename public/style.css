@@ -1,0 +1,18 @@
+body{
+    background-color: black;
+}
+
+h1{
+    text-align: center;
+    color: greenyellow;
+}
+
+.messageBox{
+ display: flex;
+ justify-content: center;
+}
+
+
+#messages{
+    color: aliceblue;
+}
